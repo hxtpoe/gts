@@ -1,0 +1,5 @@
+.idea/
+src/**/*.js
+dest/
+node_modules/
+delpoy/
